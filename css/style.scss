@@ -1,0 +1,11 @@
+@import "variables";
+@import "reset";
+
+a {
+    text-decoration: none;
+    &:hover {
+        color: $accent-color;
+        font-weight: bold;
+    }
+}
+

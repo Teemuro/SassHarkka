@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: var(--dark-foreground-color);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: #6D0509;
+  font-weight: bold;
+}/*# sourceMappingURL=style.css.map */
